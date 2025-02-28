@@ -1,1 +1,8 @@
 Que es Bitcoin? 
+
+Bitcoin o Bitcóin es una criptomoneda descentralizada y un sistema de pago que no requiere 
+de banco central o administrador único para su funcionamiento,4​5​ ya que opera mediante una 
+red de nodos peer to peer que verifican las transacciones mediante criptografía y las 
+registran en un libro de contabilidad público llamado cadena de bloques. El consenso entre 
+nodos se logra mediante un proceso computacional intensivo basado en el sistema de prueba 
+de trabajo al que se denomina «minería», que garantiza la seguridad de la cadena de bloques
