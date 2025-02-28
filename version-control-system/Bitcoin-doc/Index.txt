@@ -6,3 +6,12 @@ red de nodos peer to peer que verifican las transacciones mediante criptografía
 registran en un libro de contabilidad público llamado cadena de bloques. El consenso entre 
 nodos se logra mediante un proceso computacional intensivo basado en el sistema de prueba 
 de trabajo al que se denomina «minería», que garantiza la seguridad de la cadena de bloques
+
+Basado en una ideología de libre mercado, la criptomoneda fue concebida en 2008 por una 
+persona o grupo de personas bajo el seudónimo de Satoshi Nakamoto,8​ cuya identidad concreta
+ se desconoce.9​ En 2009 se presentó su implementación como código libre y la red peer to 
+ peer comenzó a funcionar un año después. Tras un progresivo crecimiento entre 2010 y 2019, 
+ cotizando en rangos promedio de 7000 dólares; se dio una masiva apreciación a raíz de la 
+ pandemia de COVID-19 entre 2020 y 2023 lo que alzó el valor de la moneda sobre los 50 000 
+ dólares.10​En diciembre de 2024 alcanzó un nuevo máximo histórico en su cotización, 
+ superando los 100 000 dólares
