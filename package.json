@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Steven-calde/Devlaunch-Steven-Calderon/issues"
   },
-  "homepage": "https://github.com/Steven-calde/Devlaunch-Steven-Calderon#readme"
+  "homepage": "https://github.com/Steven-calde/Devlaunch-Steven-Calderon#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
