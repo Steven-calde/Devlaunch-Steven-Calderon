@@ -1,0 +1,12 @@
+Pasos para encender el carro automático
+
+Buscar las llaves
+Validar si el carro esta cerrado
+- Si esta cerrado se desbloquea la alarma y se ingresa 
+- Si esta abierto se ingresa
+
+Sentarse y colocarse el cinturón
+Si se viaja con otras persona se verifica que se ponga el cinturón
+Ajustar los espejos
+Presionar el freno y encender el carro con el botón
+Pasar el carro de parking a “D” y verificar que no vengan carros para poder salir
