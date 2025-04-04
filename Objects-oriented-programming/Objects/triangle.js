@@ -40,3 +40,4 @@ const isValidTriangle = (triangle) => {
 
 console.log(isValidTriangle(t1))
 console.log(isValidTriangle(t2))
+
